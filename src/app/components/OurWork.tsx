@@ -37,7 +37,7 @@ const galleryImages = [
 
 export default function OurWork() {
   return (
-    <section className="py-24 pb-48 sm:px-6 md:px-10 max-w-7xl mx-auto">
+    <section className="py-24 pb-48 px-4 sm:px-6 md:px-10 max-w-7xl mx-auto">
       <div className="flex flex-col items-start justify-start gap-12">
         {/* Left Side: Text */}
         <div className="w-full flex flex-col items-start gap-6">

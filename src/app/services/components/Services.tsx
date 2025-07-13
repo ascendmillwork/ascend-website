@@ -35,7 +35,7 @@ export default function ServicesRows() {
 
             {/* Bottom-left title */}
             <div className="absolute bottom-4 left-4 accent-light text-lg font-semibold drop-shadow-lg z-10 p-6">
-              <h3 className="text-5xl">{title}</h3>
+              <h3 className="text-3xl lg:text-5xl">{title}</h3>
               <p className="my-4 max-w-xl">{description}</p>
             </div>
           </div>
