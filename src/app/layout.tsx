@@ -92,7 +92,7 @@ export default function RootLayout({
                 postalCode: "30650",
                 addressCountry: "US",
               },
-              telephone: "+1 706-340-6025",
+              telephone: "+1 (706) 438-8485",
               email: "hello@ascendmillwork.com",
               url: "https://ascendmillwork.com/",
               image: "https://ascendmillwork.com/path-to-logo.png",

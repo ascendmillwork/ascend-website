@@ -180,7 +180,7 @@ export default function ContactForm() {
                   href="tel:+17063406025"
                   className="text-accent hover:underline"
                 >
-                  +1 706-340-6025
+                  +1 (706) 438-8485
                 </a>
               </p>
 
