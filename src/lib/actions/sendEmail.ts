@@ -14,7 +14,7 @@ export async function sendContactEmail(formData: {
   try {
     const response = await resend.emails.send({
       from: "Ascend Website <hello@thoughtwave.live>",
-      to: ["developervsandhu@gmail.com"],
+      to: ["hello@ascendmillwork.com"],
       subject: `New Contact Form Submission: ${formData.service || "General Inquiry"}`,
       html: `
         <div style="font-family: Arial, sans-serif; color: #333; line-height: 1.5; max-width: 600px; margin: auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px;">
